@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-image: linear-gradient(to right,red,black);
+}
+a{
+text-decoration: none ;
+}
+h1{
+text-align: center;
+}
+footer{
+padding:10px;
+}        
